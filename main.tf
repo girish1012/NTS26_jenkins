@@ -10,5 +10,5 @@ resource "aws_instance" "tomcat-server" {
 
     "Name"="Tomcat_Server"
   }
-
+}
 
